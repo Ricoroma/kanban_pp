@@ -1,0 +1,11 @@
+fastapi
+sqlalchemy
+alembic
+python-dotenv~=1.0.1
+uvicorn
+gunicorn
+pyjwt
+bcrypt
+asyncpg
+pydantic-settings
+cryptography
